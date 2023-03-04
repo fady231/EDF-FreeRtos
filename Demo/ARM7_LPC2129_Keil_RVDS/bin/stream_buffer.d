@@ -1,0 +1,16 @@
+.\bin\stream_buffer.o: ..\..\Source\stream_buffer.c
+.\bin\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\stream_buffer.o: ..\..\Source\include\FreeRTOS.h
+.\bin\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\bin\stream_buffer.o: .\FreeRTOSConfig.h
+.\bin\stream_buffer.o: C:\Keil_v5\ARM\INC\Philips\lpc21xx.h
+.\bin\stream_buffer.o: .\Starter_Files_V1\header\GPIO.h
+.\bin\stream_buffer.o: ..\..\Source\include\projdefs.h
+.\bin\stream_buffer.o: ..\..\Source\include\portable.h
+.\bin\stream_buffer.o: ..\..\Source\include\deprecated_definitions.h
+.\bin\stream_buffer.o: ..\..\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+.\bin\stream_buffer.o: ..\..\Source\include\mpu_wrappers.h
+.\bin\stream_buffer.o: ..\..\Source\include\task.h
+.\bin\stream_buffer.o: ..\..\Source\include\list.h
+.\bin\stream_buffer.o: ..\..\Source\include\stream_buffer.h

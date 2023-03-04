@@ -1,0 +1,15 @@
+.\bin\croutine.o: ..\..\Source\croutine.c
+.\bin\croutine.o: ..\..\Source\include\FreeRTOS.h
+.\bin\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\bin\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\croutine.o: .\FreeRTOSConfig.h
+.\bin\croutine.o: C:\Keil_v5\ARM\INC\Philips\lpc21xx.h
+.\bin\croutine.o: .\Starter_Files_V1\header\GPIO.h
+.\bin\croutine.o: ..\..\Source\include\projdefs.h
+.\bin\croutine.o: ..\..\Source\include\portable.h
+.\bin\croutine.o: ..\..\Source\include\deprecated_definitions.h
+.\bin\croutine.o: ..\..\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+.\bin\croutine.o: ..\..\Source\include\mpu_wrappers.h
+.\bin\croutine.o: ..\..\Source\include\task.h
+.\bin\croutine.o: ..\..\Source\include\list.h
+.\bin\croutine.o: ..\..\Source\include\croutine.h
